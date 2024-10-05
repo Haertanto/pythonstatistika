@@ -1,7 +1,7 @@
 # pythonstatistika
 # Belajar Bahasa Pemrograman Python untuk Statistika
     1. Pengolahan Data
-       1.1. Profesi Pengolahan Data
+       1.1. [Profesi Pengolahan Data](1.1.%20Profesi%20Pengolahan%20Data.md).
        1.2. Data Science dan Python
        1.3. Tahapan Download File Instalasi
        1.4. Instalasi Python dan Alat pada Windows
