@@ -1,11 +1,11 @@
 # pythonstatistika
 # Belajar Bahasa Pemrograman Python untuk Statistika
-1. Pengolahan Data
-     1.1. Profesi Pengolahan Data
-     1.2. Data Science dan Python
-     1.3. Tahapan Download File Instalasi
-     1.4. Instalasi Python dan Alat pada Windows
-  2. Basic Python I
+    1. Pengolahan Data
+       1.1. Profesi Pengolahan Data
+       1.2. Data Science dan Python
+       1.3. Tahapan Download File Instalasi
+       1.4. Instalasi Python dan Alat pada Windows
+    2. Basic Python I
        2.1. Variabel pada Python
        2.2. Operator dan Tipe Data pada Python
        2.3. Operator Perbandingan
