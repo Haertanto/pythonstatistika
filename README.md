@@ -1,4 +1,4 @@
-# Belajar Bahasa Pemrograman Python untuk Statistika
+# Belajar Bahasa Pemrograman Python untuk Statistika Terapan
 ## 1. Pengolahan Data
 [       1.1. Profesi Pengolahan Data](https://github.com/Haertanto/pythonstatistika/blob/816bb05eede4b57d26a9f1bb6b62e64f45dbc774/1.1.%20Profesi%20Pengolahan%20Data.md)
 
